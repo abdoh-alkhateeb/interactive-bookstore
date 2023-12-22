@@ -1,0 +1,13 @@
+body {
+    text-align: center;
+    background-color: bisque;
+}
+
+nav {
+    background-color: lightsalmon;
+    padding: 20px;
+}
+
+img {
+    width: 300px;
+}

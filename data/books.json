@@ -1,0 +1,104 @@
+{
+    "books": [
+        {
+            "id": 1,
+            "title": "The Great Gatsby",
+            "author": "F. Scott Fitzgerald",
+            "description": "A novel depicting the tragic love story of Jay Gatsby and Daisy Buchanan during the Roaring Twenties.",
+            "price": 14.99,
+            "cover": "images/great_gatsby.jpg",
+            "genre": "Fiction",
+            "rating": 4.8
+        },
+        {
+            "id": 2,
+            "title": "To Kill a Mockingbird",
+            "author": "Harper Lee",
+            "description": "A classic novel exploring racial injustice and moral growth in the American South during the 1930s.",
+            "price": 12.99,
+            "cover": "images/to_kill_a_mockingbird.jpg",
+            "genre": "Fiction",
+            "rating": 4.9
+        },
+        {
+            "id": 3,
+            "title": "1984",
+            "author": "George Orwell",
+            "description": "A dystopian novel depicting a totalitarian society and the consequences of a government's control over its citizens.",
+            "price": 16.99,
+            "cover": "images/1984.jpg",
+            "genre": "Science Fiction",
+            "rating": 4.7
+        },
+        {
+            "id": 4,
+            "title": "The Catcher in the Rye",
+            "author": "J.D. Salinger",
+            "description": "A coming-of-age novel narrated by Holden Caulfield, who is expelled from prep school and wanders through New York City.",
+            "price": 11.99,
+            "cover": "images/catcher_in_the_rye.jpg",
+            "genre": "Fiction",
+            "rating": 4.5
+        },
+        {
+            "id": 5,
+            "title": "The Hobbit",
+            "author": "J.R.R. Tolkien",
+            "description": "A fantasy novel that follows the journey of Bilbo Baggins as he accompanies a group of dwarves on a quest to reclaim their homeland.",
+            "price": 18.99,
+            "cover": "images/the_hobbit.jpg",
+            "genre": "Fantasy",
+            "rating": 4.6
+        },
+        {
+            "id": 6,
+            "title": "Pride and Prejudice",
+            "author": "Jane Austen",
+            "description": "A classic novel exploring themes of love, reputation, and social class in early 19th-century England.",
+            "price": 13.99,
+            "cover": "images/pride_and_prejudice.jpg",
+            "genre": "Romance",
+            "rating": 4.7
+        },
+        {
+            "id": 7,
+            "title": "The Lord of the Rings",
+            "author": "J.R.R. Tolkien",
+            "description": "An epic fantasy trilogy following the journey to destroy the One Ring and defeat the Dark Lord Sauron.",
+            "price": 29.99,
+            "cover": "images/lord_of_the_rings.jpg",
+            "genre": "Fantasy",
+            "rating": 4.9
+        },
+        {
+            "id": 8,
+            "title": "Harry Potter and the Sorcerer's Stone",
+            "author": "J.K. Rowling",
+            "description": "The first book in the Harry Potter series, introducing the young wizard Harry and his adventures at Hogwarts School of Witchcraft and Wizardry.",
+            "price": 15.99,
+            "cover": "images/harry_potter.jpg",
+            "genre": "Fantasy",
+            "rating": 4.8
+        },
+        {
+            "id": 9,
+            "title": "The Da Vinci Code",
+            "author": "Dan Brown",
+            "description": "A mystery thriller novel that follows symbologist Robert Langdon as he investigates a murder at the Louvre Museum in Paris.",
+            "price": 17.99,
+            "cover": "images/da_vinci_code.jpg",
+            "genre": "Mystery",
+            "rating": 4.6
+        },
+        {
+            "id": 10,
+            "title": "The Hunger Games",
+            "author": "Suzanne Collins",
+            "description": "A dystopian novel set in a post-apocalyptic nation where teenagers participate in a televised event called the Hunger Games.",
+            "price": 14.99,
+            "cover": "images/hunger_games.jpg",
+            "genre": "Science Fiction",
+            "rating": 4.5
+        }
+    ]
+}
